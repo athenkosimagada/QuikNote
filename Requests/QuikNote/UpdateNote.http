@@ -1,0 +1,9 @@
+@id = 259bb9f9-b120-45fa-93dc-81fc3e6f3e7d
+PUT http://localhost:5291/api/v1/notes/{{id}}
+Content-Type: application/json
+
+{
+    "title": "Meeting Notes 2",
+    "content": "<p>This is a note with <b>bold text</b> and <i>italic text</i>.</p><ul><li>Bullet 1</li><li>Bullet 2</li></ul>",
+    "tags": "meeting,work,home"
+}

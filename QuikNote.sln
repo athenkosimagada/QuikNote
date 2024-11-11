@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuikNote.Contracts", "QuikNote.Contracts\QuikNote.Contracts.csproj", "{34B6E3A3-840A-4F1C-B3C8-2D21F71D95BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuikNote", "QuikNote\QuikNote.csproj", "{9710F673-D1AB-478B-98E6-E8B47AB52DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{18B4CA8B-B7D4-4F7C-A633-3DDDD39BB9F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B6E3A3-840A-4F1C-B3C8-2D21F71D95BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B6E3A3-840A-4F1C-B3C8-2D21F71D95BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B6E3A3-840A-4F1C-B3C8-2D21F71D95BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B6E3A3-840A-4F1C-B3C8-2D21F71D95BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9710F673-D1AB-478B-98E6-E8B47AB52DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9710F673-D1AB-478B-98E6-E8B47AB52DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9710F673-D1AB-478B-98E6-E8B47AB52DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9710F673-D1AB-478B-98E6-E8B47AB52DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B4CA8B-B7D4-4F7C-A633-3DDDD39BB9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B4CA8B-B7D4-4F7C-A633-3DDDD39BB9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B4CA8B-B7D4-4F7C-A633-3DDDD39BB9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B4CA8B-B7D4-4F7C-A633-3DDDD39BB9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

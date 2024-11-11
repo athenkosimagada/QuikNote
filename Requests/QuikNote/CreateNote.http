@@ -1,0 +1,8 @@
+POST http://localhost:5291/api/v1/notes
+Content-Type: application/json
+
+{
+    "title": "Self Report 2",
+    "content": "This is a content for my self report Note",
+    "tags": "meeting,work"
+}

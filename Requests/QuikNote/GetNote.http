@@ -1,0 +1,2 @@
+@id = 1887ff7c-1341-4f2a-9b0a-a57960cd9b0a	
+GET http://localhost:5291/api/v1/notes/{{id}}

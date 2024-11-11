@@ -1,0 +1,4 @@
+[*.{cs,vb}]
+
+# IDE1006: Naming Styles
+dotnet_diagnostic.IDE0290.severity = none
